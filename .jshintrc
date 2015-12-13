@@ -1,0 +1,11 @@
+{
+  "eqeqeq": true,
+  "undef": true,
+  "laxcomma": true,
+  "browser": true,
+
+  "globals": {
+    "slideshow": false,
+    "slideshow": false
+  }
+}

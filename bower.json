@@ -1,0 +1,23 @@
+{
+  "name": "git-training",
+  "authors": [
+    "Mahesh Sankhala <mahesh.saini@srijan.in>"
+  ],
+  "description": "Yet another git training.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "git",
+    "training"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
