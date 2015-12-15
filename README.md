@@ -8,46 +8,44 @@ present in this training is collected from different resources.
 ### Topic i am going to cover
 
 #### Git Basic
-1. What is Git?
-2. Git Vs SVN
-3. Git objects
+- What is Git?
+- SVN Vs Git
+- How Does git store files? Git objects
     - Blob
     - Tree
     - Commit
-3. Git Terminology- refs, remote, tag, Commit, HEAD, tag, branch, merge
-4. Git searching for Commit
-5. Git several log commands
-6. How to read conflict
-7. Conflict and resolving Commit
-8. Changing the last commit message.
-9. Git branching model
-10. Git configuration option
+- Git Terminology- stage, commit, remote, HEAD, tag, branch, merge, refs
+- Git searching for Commit
+- Git several log commands
+- How to read conflict
+- Conflict and resolving Commit
+- Changing the last commit message.
+- Git branching model
+- Git update remote repository url.
+- Git rename branch.
+- Git delete remote branch.
+- Git configuration option
     - Git local config
     - Git global config
     - Git config file location.
     - Git config option you may not know exists?
-11. git stash (The life savior)
-12. Let be productive with Git
-    - Git aliases
-13. Visualize your repo.
-14. I am git. I made a mistake. How do i revert it.
-14. I commit and pushed to wrong branch. How do i revert remote.
-15. What the hack is this ~ and ^.
-16. Git delete remote branch.
-17. Git delete remote tag.
-
+- git stash (The life savior)
+- Let be productive with Git
+    - Git aliases (built in)
+    - Shell alias for git.
+- Visualize your repo.
+- Git tags
+- I am git, I made a mistake, How do i revert it?
+- What the hack is this ~ and ^.
 
 #### Git Advance
-1. Git rebase
-2. Git Charry pick
-3. Git Submodule
-4. Git hook
-5. Git bare repo
-6. Git permissions bits
-7. Git within Git (inception)
-
-#### Only for Gëëk
-- Lets make our own Github
+- I commit and pushed to wrong branch. How do i revert remote?
+- Git rebase
+- Git Charry pick
+- Git Submodule
+- Git hook
+- Git bare repo
+- Git permissions bits
 
 Things you may not know about Git
 http://www.matheuslima.com/things-you-didnt-know-about-git/
