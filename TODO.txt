@@ -1,5 +1,0 @@
-Future training
-7. Git within Git (inception)
-
-1. Let do fun with Ack (http://beyondgrep.com/)
-2. Be Awesome with Sublime.
