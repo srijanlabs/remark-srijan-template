@@ -47,7 +47,5 @@ present in this training is collected from different resources.
 - Git bare repo
 - Git permissions bits
 
-Things you may not know about Git
-http://www.matheuslima.com/things-you-didnt-know-about-git/
-
-# Resources
+#### Only for Gëëk
+- Lets make our own Github
